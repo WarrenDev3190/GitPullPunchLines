@@ -1,3 +1,5 @@
 # Eyebrows
 
 I told my wife she was drawing her eyebrows too high...
+
+...she looked surprised
