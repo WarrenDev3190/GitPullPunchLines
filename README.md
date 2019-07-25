@@ -9,5 +9,5 @@ git fetch --all
 Use git pull to finish the jokes!
 
 ```bash
-git pull origin [filename]
+git pull origin [filename] (minus the .md)
 ```
